@@ -1,0 +1,15 @@
+C:\Seminar_4\Homework_25\bin\Debug\net6.0\Homework_25.exe
+C:\Seminar_4\Homework_25\bin\Debug\net6.0\Homework_25.deps.json
+C:\Seminar_4\Homework_25\bin\Debug\net6.0\Homework_25.runtimeconfig.json
+C:\Seminar_4\Homework_25\bin\Debug\net6.0\Homework_25.dll
+C:\Seminar_4\Homework_25\bin\Debug\net6.0\Homework_25.pdb
+C:\Seminar_4\Homework_25\obj\Debug\net6.0\Homework_25.csproj.AssemblyReference.cache
+C:\Seminar_4\Homework_25\obj\Debug\net6.0\Homework_25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Seminar_4\Homework_25\obj\Debug\net6.0\Homework_25.AssemblyInfoInputs.cache
+C:\Seminar_4\Homework_25\obj\Debug\net6.0\Homework_25.AssemblyInfo.cs
+C:\Seminar_4\Homework_25\obj\Debug\net6.0\Homework_25.csproj.CoreCompileInputs.cache
+C:\Seminar_4\Homework_25\obj\Debug\net6.0\Homework_25.dll
+C:\Seminar_4\Homework_25\obj\Debug\net6.0\refint\Homework_25.dll
+C:\Seminar_4\Homework_25\obj\Debug\net6.0\Homework_25.pdb
+C:\Seminar_4\Homework_25\obj\Debug\net6.0\Homework_25.genruntimeconfig.cache
+C:\Seminar_4\Homework_25\obj\Debug\net6.0\ref\Homework_25.dll
