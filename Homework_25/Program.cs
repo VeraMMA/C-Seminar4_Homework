@@ -21,18 +21,22 @@ namespace homework
             Print("Введите натуральную степень B.:");
             int degreeB = Convert.ToInt32(Console.ReadLine());
             
-            Degree(numberA, degreeB);
+           Degree(numberA, degreeB);
+           
+            
         }
         public static void Print(string word)
         {
             Console.WriteLine(word);
-        }
- 
-        static void Degree (int numberA, int degreeB)
+        } 
+
+           static void Degree (int numberA, int degreeB)
         {          
-            double  result =   Math.Pow(numberA, degreeB);
+            double  result =  Math.Pow(numberA, degreeB);
             System.Console.WriteLine(result);
         }
+
+        
         
     }
 }
