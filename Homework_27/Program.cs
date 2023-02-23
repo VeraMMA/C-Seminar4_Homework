@@ -19,21 +19,29 @@ namespace homework
         static void Main()
         {
             Print("Напишите метод, который принимает на вход число и выдаёт сумму цифр в числе.");
-
-
-            string digit = Console.ReadLine();
-            int i = Convert.ToInt32(digit);
-
-            for (i =  1; i < digit.Length; i++)
-            {
-                Console.Write(digit[i]%10);
-            }
-
+            
+           Print("Введите число");
+             {
+            int value = Convert.ToInt32(Console.ReadLine());
+            
+              Degree(value);
+                
 
         }
+            static void Degree (int value)
+            {
+                int Summa = 0;
+
+            while (value > 0)
+            {
+                Summa += value % 10;
+                value = value/10;
+                
+            }        
+              System.Console.WriteLine(Summa); 
+            }
+    }           
 
     }
-
-
 
 }
