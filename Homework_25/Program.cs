@@ -11,10 +11,11 @@ using System;
 namespace homework
 {
     class Program
-    {   public static void Print(string word)
+    {
+        public static void Print(string word)
         {
             Console.WriteLine(word);
-        } 
+        }
 
         static void Main()
         {
@@ -23,11 +24,21 @@ namespace homework
             Print("Введите число A:");
             int numberA = Convert.ToInt32(Console.ReadLine());
             Print("Введите натуральную степень B.:");
-            int degreeB = Convert.ToInt32(Console.ReadLine());    
+            int degreeB = Convert.ToInt32(Console.ReadLine());
+             
+             Rate(numberA, degreeB);
             
-        }
-        
-          
            
-    }
+        }
+           public static void  Rate (int numberA, int degreeB)
+           {
+                int t = numberA;
+
+            for (int i = 1; i < degreeB; i++)
+            {
+                t = t *numberA;
+            }
+               Console.WriteLine("Число A в натуральную степень B равно:" + t);
+           }
+    }             
 }
