@@ -36,7 +36,7 @@ namespace homework
 
             for (int i = 1; i < degreeB; i++)
             {
-                t = t *numberA;
+                t = t * numberA;
             }
                Console.WriteLine("Число A в натуральную степень B равно:" + t);
            }
